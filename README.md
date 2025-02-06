@@ -1,4 +1,4 @@
-# Loan Data Analysis - SQL Queries
+# Bank Loan Data Analysis - SQL Queries
 
 ## KPI Calculations
 
